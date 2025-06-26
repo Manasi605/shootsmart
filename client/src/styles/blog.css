@@ -1,0 +1,28 @@
+.blog-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+}
+
+.blog-form input,
+.blog-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.blog-form button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.blog-post {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-top: 1rem;
+  background-color: #f9f9f9;
+}

@@ -1,0 +1,3 @@
+const Services = () => { return ( <div className="container mt-5"> <h2 className="text-center text-primary mb-4">Our Services</h2> <div className="row"> <div className="col-md-6 mb-3"> <div className="card h-100 shadow-sm"> <div className="card-body"> <h5 className="card-title text-success">Video Tutorials</h5> <p className="card-text">Step-by-step tutorials on shooting, editing, and publishing videos.</p> </div> </div> </div> <div className="col-md-6 mb-3"> <div className="card h-100 shadow-sm"> <div className="card-body"> <h5 className="card-title text-success">1-on-1 Mentoring</h5> <p className="card-text">Get personal feedback and tips from our expert creators.</p> </div> </div> </div> </div> </div> ); };
+
+export default Services;
